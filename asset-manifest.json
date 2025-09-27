@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/archie-chadha/static/css/main.6d97b5b5.css",
+    "main.js": "/archie-chadha/static/js/main.6a4ded42.js",
+    "index.html": "/archie-chadha/index.html",
+    "main.6d97b5b5.css.map": "/archie-chadha/static/css/main.6d97b5b5.css.map",
+    "main.6a4ded42.js.map": "/archie-chadha/static/js/main.6a4ded42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d97b5b5.css",
+    "static/js/main.6a4ded42.js"
+  ]
+}
