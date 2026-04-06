@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/archie-chadha/static/css/main.6d97b5b5.css",
-    "main.js": "/archie-chadha/static/js/main.4e0736d7.js",
+    "main.js": "/archie-chadha/static/js/main.58fb48e3.js",
     "index.html": "/archie-chadha/index.html",
     "main.6d97b5b5.css.map": "/archie-chadha/static/css/main.6d97b5b5.css.map",
-    "main.4e0736d7.js.map": "/archie-chadha/static/js/main.4e0736d7.js.map"
+    "main.58fb48e3.js.map": "/archie-chadha/static/js/main.58fb48e3.js.map"
   },
   "entrypoints": [
     "static/css/main.6d97b5b5.css",
-    "static/js/main.4e0736d7.js"
+    "static/js/main.58fb48e3.js"
   ]
 }
